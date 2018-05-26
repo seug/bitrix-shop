@@ -57,7 +57,7 @@ $APPLICATION->SetTitle("Новый раздел");
 		"ELEMENT_SORT_FIELD2" => "id",
 		"ELEMENT_SORT_ORDER" => "asc",
 		"ELEMENT_SORT_ORDER2" => "desc",
-		"FILTER_FIELD_CODE" => array("NAME",""),
+		"FILTER_FIELD_CODE" => array("ID","NAME","IBLOCK_EXTERNAL_ID","DATE_CREATE",""),
 		"FILTER_HIDE_ON_MOBILE" => "N",
 		"FILTER_NAME" => "",
 		"FILTER_PRICE_CODE" => array("BASE"),
